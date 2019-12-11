@@ -5,7 +5,7 @@
     2. What is HTML used for? It is used for structuring and creating web pages that are displayed on internet
     3. What is an attribute and where do we put it? An attribute is a characteristic and we put it in the start tag
     4. What is the h1 tag used for? How many times should I use it on a page? H1 is used to signify the most important heading. H1 tags should only be used once. 
-    5. Name two tags that have required attributes. Body and “a”
+    5. Name two tags that have required attributes. "img" and “a”
     6. What do we put in the head of our HTML document? The HTML <head> tag represents the head section of the HTML document. The <head> element can contain other HTML tags that contain metadata. Metadata provides information about the document such as title, description, keywords etc.
     7. What is an id? ID is a unique identifier that can only be used once. 
     8. What elements can I add an id to? Any element. 
@@ -31,7 +31,7 @@
     28. How do I add a 1px border around my div that is dotted and black? border:1px dotted black;
     29. How do I select everything on the page? The * selector selects all elements.
     30. How do I write a comment in CSS? You start a comment with /* , and end it with */ .
-    31. How do I find out what file I am in, when I am using the command line? We use cd.
+    31. How do I find out what file I am in, when I am using the command line? We use pwc.
     32. Using the command line - how do I see a list of files/folders in my current folder? We use List.
     33. How do I remove a file via the command line? Why do I have to be careful with this? We use RM (remove). We have to be careful because once you remove it can’t be undone.  
     34. Why should I use version control? Version control systems can solve the problem of reviewing and retrieving previous changes and allow single files to be used rather than duplicated.
